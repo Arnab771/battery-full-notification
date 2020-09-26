@@ -1,5 +1,5 @@
 # Battery Full Notification
-A simple script to display a notification when your battery is full in Ubuntu/Linux Mint
+A simple script to display a notification when your battery is full in Pop!_OS
 
 ![preview](http://i.imgur.com/rVGMBK8.png)
 
